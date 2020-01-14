@@ -1,6 +1,6 @@
 # Gem Rain
 
-Simple mobile game made for android studio class with GUI.
+Simple mobile game made for academic android studio class with GUI.
 Evolution of one of my older project.
 
 
