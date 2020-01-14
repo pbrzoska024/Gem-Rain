@@ -16,10 +16,24 @@ Evolution of one of my older project.
 
 ## Main Menu
 
-![GAME](https://user-images.githubusercontent.com/53401206/63012278-4130eb00-be8a-11e9-8523-f96eb17f7c24.gif)
+![MENU](https://user-images.githubusercontent.com/53401206/72355031-fdffd000-36e6-11ea-8a25-a622cfbc6fe9.gif)
+
 
 *Start Game - Starts main game
 *Quit - Exit app
+
+
+
+## Play Screen
+
+![PLAY](https://user-images.githubusercontent.com/53401206/72355114-1ff95280-36e7-11ea-9358-a5e40733081f.gif)
+
+
+
+
+## Game Over Screen
+
+![GAMEOVER](https://user-images.githubusercontent.com/53401206/72355095-18d24480-36e7-11ea-85dc-0f173440f02f.gif)
 
 
 
