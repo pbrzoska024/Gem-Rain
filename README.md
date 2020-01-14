@@ -6,11 +6,11 @@ Evolution of one of my older project.
 
 # Rules
 
-Blue Gems - Increase score by 1
+*Blue Gems - Increase score by 1
 
-Violet Gems - GAME OVER
+*Violet Gems - GAME OVER
 
-Red Gems - Score -1
+*Red Gems - Score -1
 
 
 
@@ -18,8 +18,8 @@ Red Gems - Score -1
 
 ![GAME](https://user-images.githubusercontent.com/53401206/63012278-4130eb00-be8a-11e9-8523-f96eb17f7c24.gif)
 
-Start Game - Starts main game
-Quit - Exit app
+*Start Game - Starts main game
+*Quit - Exit app
 
 
 
